@@ -1,4 +1,4 @@
-# Finger-Count-Detection
+# Hand Gesture Recognition
 📌 Summary
 
 This project implements a real-time computer vision system that detects a human hand, segments it from the background, and counts the number of fingers being held up using a webcam feed.
